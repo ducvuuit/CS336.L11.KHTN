@@ -2,7 +2,7 @@
 
 
 ## [Demo]
-![Youtube](https://www.youtube.com/watch?v=jKXrllGEIDo)
+[Youtube](https://www.youtube.com/watch?v=jKXrllGEIDo&t=2s)
 
 ![](https://github.com/ducvuuit/DoAnTruyVan_cs336.l11.khtn/blob/main/demo.gif)
 
